@@ -1,2 +1,3 @@
-# tutoral1
-소셜프로젝트를 위한 GitHub레포지토리 만들기 
+# tutoral1에 
+
+## 작성자
